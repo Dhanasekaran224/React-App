@@ -1,0 +1,20 @@
+{
+  "name": "lummi-media",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Dhanasekaran224/React-App#readme",
+  "bugs": {
+    "url": "https://github.com/Dhanasekaran224/React-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanasekaran224/React-App.git"
+  },
+  "license": "ISC",
+  "author": "Dhanasekaran",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
